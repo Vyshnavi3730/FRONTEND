@@ -1,0 +1,30 @@
+<h1>Web development</h1>
+<p>Web development is an extremely satisfying and rewarding carrer path.</p>
+<h2>Components of Web Development</h2>
+<ul>
+    <li>Front-end</li>
+       <ul>
+          <li><a href ="">HTML</a></li>
+          <li><a href="">CSS</a></li>
+          <li>JAVASCRIPT</li>
+          <LI>BOOTSTRAP</li>
+      </ul>
+    <li>Back-end</li>
+       <ul>
+          <li>Python</li>
+          <li>Java</li>
+          <li>Javascript</li>
+          <li>Frameworks</li>
+             <ul>
+               <li>Django</li>
+               <li>NodeJS</li>
+               <li>Spring</li>
+             </ul>
+       </ul>
+    <li>Database</li>
+       <ul>
+          <li>Structured Query Language</li>
+          <li>MongoDB</li>
+        </ul>
+
+</ul>

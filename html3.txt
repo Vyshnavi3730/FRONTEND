@@ -1,0 +1,73 @@
+
+<h1>Web development</h1>
+<p>Web development is an extremely satisfying and rewarding carrer path.</p>
+<h2>Components of Web Development</h2>
+<ul>
+    <li>Front-end</li>
+       <ul>
+          <li><a href ="">HTML</a></li>
+          <li><a href="">CSS</a></li>
+          <li><a href=""JAVASCRIPT</a></li>
+          <LI><a href=""BOOTSTRAP</a></li>
+      </ul>
+    <li>Back-end</li>
+       <ul>
+          <li><a href=""Python</a></li>
+          <li><a href="#java"Java</a></li>
+          <li><a href=""Javascript</a></li>
+          <li>Frameworks</li>
+             <ul>
+               <li><a href=""Django</a></li>
+               <li><a href=""NodeJS</a></li>
+               <li><a href=""Spring</a></li>
+             </ul>
+       </ul>
+    <li>Database</li>
+       <ul>
+          <li><a href=""Structured Query Language</a></li>
+          <li><a href=""MongoDB</a></li>
+        </ul>
+
+</ul>
+
+
+
+<h1 id="java">Java</h1>
+<img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg">
+<p>Java is a robust language</p>
+
+
+
+<h1>Java Script</h1>
+<img src="https://jbstechinfo.com/wp-content/uploads/2023/08/JavaScript-Symbol.png">
+<p>Javascript is a scripting language</p>
+
+
+<h1>Django</h1>
+<img src="https://www.svgrepo.com/show/353657/django-icon.svg">
+<p>Django is a high-level Python web framework</p>
+
+
+<h1Nodejs</h1>
+<img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg">
+<p>Node. js is primarily used for backend development</p>
+
+
+
+
+<h1>Spring</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png">
+<p>It is used to create stand-alone and production-ready spring applications</p>
+
+
+<h1>SQL</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s">
+<p>sql is a database</p>
+
+
+
+
+<h1>MongodB</h1>
+<img src="https://www.helenjoscott.com/wp-content/uploads/2022/01/mongodb_standard.png">
+<p>MongodB is a database</p>
+
