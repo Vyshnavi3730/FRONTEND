@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Example</title>
+    <style type="text/css">
+        input[type][name][placeholder]{
+            border: 2px solid red;;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldlist>
+        <legend>Sign Up Form</legend>
+        <form>
+            <label>Name: </label>
+            <input type="text" name="name" placeholder="EX:Rohit"><br>
+            <label>Mobile: </label>
+            <input type="text" name="mob"><br>
+            <label>Email: </label>
+            <input type="Email" name="mail" placeholder=""EX:Rohit@gmail.com><br>
+            <label>Password: </label>
+            <input type="Password" Password="pwd"><br>
+            <label>Confirm Password</label>
+            <input type="Password" Password="cpwd"><br>
+            <input type="submit">
+        </form>
+    </fieldlist>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1>COURSE REGISTRATION FORM</h1>
+    <form>
+        <fieldset>
+            <legend>Personal Details</legend>
+             <table>
+            <tr><td><label>First Name</label></td><td><input type ="text" name="FN"placeholder="Ex:Rohit" size=15 maxlength=10></td></tr>
+    <tr><td><label>Surname</label></td><td><input type ="text" name="LN" placeholder="ex:ravinder" size=15></td></tr>
+    <tr><td><label>Mobile number</td><td></label><input type="tel" name="mob" placeholder:"98-64-3210" size=15></td></tr>
+      <tr><td><label>Email</label></td><td><input type="Email" size="15" placeholder="Ex:Rohit@roman.net"></td></tr>
+        <tr><td><label>Password</label></td><td><input type="Password" name="pwd" placeholder="min 5 characters"></td></tr>
+          <tr><td><label>Confirm Password</label></td><td><input type="Password" name="cwpwd" placeholder="min 5 characters"></td></tr>
+            <tr><td><label>DOB</label></td><td><input type="date" name="dob"></td></tr>
+              <tr><td><label>Gender</label></td><td><input type="radio" name="gender" value="M">Male<input type="radio" name="gender" value="F">Female<input type="radio" name="gender" value="C">custom</td></tr>
+                <tr><td><label>Select Country</label></td><td>
+    <select name="COUNTRY">
+        <option value="INDIA">INDIA</option>
+        <option value="USA">USA</option>
+        <option value="CHINA">CHINA</option>
+    </select></td></tr>
+    <tr><td><label>Upload picture</label></td><td><input type="file" name="pic"></td></tr>
+    <tr><td><input type="reset"></td></tr>
+    </table>
+        </fieldset>
+        <fieldset>
+            <legend>Course Details</legend>
+            <label>Select Course</label>
+      <select name="course">
+        <option value="Java full stack">Java full stack</option>
+        <option value="Python full stack">Python full stack</option>
+      </select><br>
+      <tr><td><label>Delivery Mode</label><input type="checkbox" name="mode1" value="off">offline<input type="checkbox" name="mode2" value="on">online<br>
+        <tr><td><label>Comments</label><br>
+    <textarea rows="4",cols="5"></textarea>
+      </fieldset>
+      <img src="https://www.codewithfaraz.com/img/how%20to%20create%20morphing%20submit%20button%20using%20css.png" height="75" width="75" type="input">
+    </form>
+    
+</body>
+</html>

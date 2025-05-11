@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home Page</title>
+    <style type"text/css">
+        .main{
+            background-color: #DC3D24;
+            color: #232B2B;
+        }
+        .font1{
+            font-family: cursive;
+            font-weight: bolder;
+        }
+        .sub{
+            background-color: #221E1D;
+            color: #ECEAE0;
+        }
+        .font2{
+            font-family: monospace;
+            font-weight: bold;
+        }
+        .end{
+            background-color: #AC2832;
+            color: #DFD297;
+        }
+        .font3{
+            font-family: sans-serif;
+            font-weight:normal;
+        }
+        a[href = s
+        "https://developer.microsoft.com/en-us/"]{
+            color: yellow;
+        }
+        a[href *= "wikipedia"]{
+            color:cyan;
+        }
+        a[href ^= "#"]{
+            color: #f5ad42;
+        }
+        a[href $=".html"]{
+            color: #0ec2eb;
+        }
+        a[href $= ".pdf" i]{
+            color: pink;
+        }
+        div[class~="font1"]{
+            border: 2px solid blue;
+        }
+
+
+        
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div class="main font1">
+    <h1>Web Developmnet</h1>
+    <p>Web development is the work involved in developing a web site for the <a href="https://en.wikipedia.org/wiki/Britannia_Industries" target="_blank">Internet</a>(World Wide Web) or an internet(a private network).Web developmaent can range from developing a simple single <a href="https://en.wikipedia.org/wiki/Static_web_page"target="_blank">static page</a>of plain text to complex web-based Internet applications,electronic businesses and social network services.A more comprehensive list of tasks to which web development commonly offers,may include web engineering,web design,web content development,client liasion,client side server scripting, <a href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model"target="_blank">Web server</a> and network security configuration,and e-commerce development</p>
+    <a href="https://developer.microsoft.com/en-us/">To microsoft web development click here</a><br>
+    <h3>Layers of a web applications:</h3>
+    <a href="#FE">Front-end</a><br>
+    <a href="#BE">Back-end</a><br>
+    <a href= "#DB">Database</a><br>
+ </div>
+
+ <div class="sub font2">
+    <h2 id="FE"></h2>
+    <h3 >Front-end development.</h3>
+    <h5>Html is a hyper text mark up language</h5>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"width="255" height="255" alt="pic not found"><br>
+    <h5>Welcome to SimpleWeb, where we believe in the power of clean design and straightforward content. Our mission is to create useful, easy-to-navigate web experiences that connect people with what matters most. Whether you’re here to learn, explore, or find solutions, we’ve got you covered with content that speaks directly to your needs.
+
+        At SimpleWeb, we offer a range of services designed to enhance your online presence. Our web design team focuses on creating beautiful, user-friendly websites that are both functional and visually appealing. We also specialize in digital marketing, crafting strategies to boost your brand’s visibility and engagement. Need compelling content? Our content creation services deliver engaging articles, blogs, and more, tailored to captivate your audience. Plus, our consulting services provide expert advice to help your business grow and thrive in the digital space.
+        
+        What sets us apart is our commitment to simplicity, reliability, and innovation. We believe that a clean, clear design is the key to effective communication. Our work is trusted by businesses of all sizes because we deliver results that matter. With fresh ideas and a focus on what truly counts, we’re here to help you stand out.<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png"width="255" height="255" alt="pic not found"><br>
+        
+        If you’d like to get in touch, feel free to reach out to us at contact@simpleweb.com or call +123 456 7890. We’re always happy to connect and discuss how we can supportCSS (Cascading Style Sheets) controls the visual presentation of web pages. It defines styles such as colors, fonts, layouts, and spacing. By linking CSS to HTML, designers can create attractive, responsive designs. CSS can be written inline, within the HTML, or as an external file. It’s essential for making websites look polished and consistent across different devices.</h5>
+    <h5>JavaScript is a programming language that adds interactivity to websites. It enables features like dynamic content updates, form validation, animations, and interactive maps. JavaScript runs in the browser, allowing real-time user interactions without reloading pages. It works seamlessly with HTML and CSS to create engaging web experiences. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12SMucV1yoXW-nEEb70ZXugC-RC7VM43xFg&s"width="255" height="255" alt="pic not found"><br>Modern web development relies heavily on JavaScript frameworks like React, Angular, and Vue.</h5>
+    
+<div class="sub font2">
+    <h2 id="BE">Back-end</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"width="255" height="255" alt="pic not found"><br>
+    <h5>The backend of a website or application is the server-side part that handles data processing, storage, and management. It manages how the front end (what users see) interacts with databases and servers. Backend development involves languages like Python, Java, Ruby, and PHP, along with frameworks like Django, Node.js, and Spring. It also handles user authentication, APIs, and server logic. Essentially, the backend powers the functionality behind the scenes, ensuring everything runs smoothly<a href="https://builtin.com/software-engineering-perspectives/back-end-development">Back-end</a>.</h5>
+    
+
+<div class="sub font2">
+    <h2 id="DB">Database</h2>
+    <img src="data:image/png;base64,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"width="255" height="255" alt="pic not found"><br>
+</div>
+
+
+<div class="end font3">
+    <h5>A database is an organized collection of data that allows easy access, management, and updating. It stores information like user details, transactions, and content for websites and applications. Databases can be relational (like MySQL, PostgreSQL) with structured tables or non-relational (like MongoDB, Firebase) for flexible data models. They support operations like creating, reading, updating, and deleting data (CRUD). Databases are crucial for maintaining data integrity, security, and efficient performance in software systems <a href="https://www.oracle.com/database/what-is-database/#:~:text=A%20database%20is%20an%20organized,database%20management%20system%20(DBMS).">Database</a></h5>
+    <h4>Also read about</h4>
+    <a href="ai.html" target=""_blank">Artificial Intelligence</a><br>
+    
+    <a href="st.html" target=""_blank">Software Testing</a><br>
+    <h4>Useful pdfs for download</h4>
+    <a href="full-stack-java-developer.pdf" target="_blank">Full Stack Java Development</a><br>
+    <a href="fend_intro.PDF">Web Development Intro</a><br>
+</div>
+</body>
+</html>

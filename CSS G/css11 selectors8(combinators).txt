@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        .bg1{
+            background-color: purple;
+        }
+        .f1{
+            font-family: cursive;
+        }
+        .bg1.f1{
+            font-size: 10px;
+
+        }
+        #header2.ai{
+            color: brown;
+        }
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Web Development</h1>
+    <p class="f1">Web development involves creating, building, and maintaining websites and web applications, encompassing tasks like coding, design, and database management, using tools like HTML, CSS, and JavaScript.</p>
+
+    <h1 id="header2" class="ai">Artificial Intelligence</h1>
+    <p class="bg1">Artificial Intelligence (AI) is a field of computer science focused on enabling machines to perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, and perception.</p>
+
+    <h1>Cyber Security</h1>
+    <p class="bg1 f1">Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, damage, or theft, encompassing various technologies, processes, and policies. It aims to safeguard against cyberattacks and maintain the integrity, confidentiality, and availability of information.</p>
+</body>
+</html>

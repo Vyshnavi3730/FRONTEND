@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        a:link{
+            background-color: orange;
+        }
+        a:visited{
+            background-color: blueviolet;
+        }
+        a:hover{
+            background-color: red;
+        }
+        a:active {
+            background-color: pink;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Good NGO's</h2>
+    <a href="https://www.educationaboveall.org/our-partners/bharti-foundation">Bharati Foundation</a><br>
+    <a href="https://www.cuddlesfoundation.org/">Cuddles Foundation</a><br>
+    <a href="https://goonj.org/">Goonj Foundation</a><br>
+</body>
+</html>

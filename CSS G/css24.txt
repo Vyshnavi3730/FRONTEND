@@ -1,0 +1,75 @@
+
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        li:first-child:last-child{ /*only child */ 
+            background-color: red;
+
+        }
+        li:nth-child(2n) {  /* even child */
+            background-color: blue;
+        } 
+        li:nth-child(2n+1) {   /* odd*/
+            background-color: aquamarine;
+        }
+        li:nth-child(n+3) {  /*/n=0 to 3rd element*/
+            background-color: blueviolet;
+        }
+        li:nth-child(n+3):nth-child(-n+5) {  /*range*/
+            background-color: chocolate;
+        }
+        ul:only-of-type > li:first-child,ul:only-of-type > li:last-child{
+            background-color: maroon;
+        }
+        div>h3:first-child+ul{
+            background-color: aqua;
+        }
+        div>ul:first-of-type{
+            background-color: antiquewhite;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h3>Popular Languages</h3>
+        <ul>
+            <li>Perl</li>
+            <li>C</li>
+            <li>Java</li>
+            <li>Python</li>
+            <li>C++</li>
+            <li>C#</li>
+            <li>JavaScript</li>
+        </ul>
+    </div>
+    <div>
+        
+        <h3>Popular Formates</h3>
+        <ul>
+            <li>Spring</li>
+            <li>Django</li>
+            <li>Node.js</li>
+            <li>.Net</li>
+            <li>Flash</li>
+        </ul>
+        <h3>Highest Paing jobs</h3>
+        <ul>
+            <li>Devops Engineer</li>
+            <li>Full stack Developer</li>
+            <li>Dta scientist</li>
+            <li>AI-ML engineer</li>
+            <li>Cloud engineer</li>
+            <li>Cyber security</li>
+        </ul>
+        <h3>Best Ed-tech companies</h3>
+        <ul>
+            <li>Rooman</li>
+        </ul>
+    </div>
+    
+</body>
+</html>

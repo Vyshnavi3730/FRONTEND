@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        a:only-of-type{
+            background-color: orange;
+
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<p>
+    Python is an <a class type="only-of-type" href="https://en.wikipedia.org/wiki/Python_(programming_language)">interpreted</a>,high leveel and general purpose language.Python design philosophy emphasizes code reliability with its notable use of sign significant whitespace.Its language constructs and an oops approach aim to help programmer write clear,="">logical</a> code for small and large scale projects .
+</p>
+    
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        .heading{
+            background-color: blue;
+            font-family: monospace;
+        }
+        .info{
+            background-color: green;
+            font-family: cursive;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="heading">Full stack web development</h1>
+    <p class="info">Full-stack web development involves building both the front-end (user interface) and back-end (server-side logic and databases) of a web application, requiring expertise in a wide range of technologies. </p>
+    <h2 class="heading">Technologies related to front end</h2>
+    <p class="info">front end is booming technology</p>
+    <h3 class="heading">Front end technologies</h3>
+</body>

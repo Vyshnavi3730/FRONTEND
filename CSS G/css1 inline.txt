@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color:red;background-color:blue;font-family:cursive;text-align:center">Full stack web development</h1>
+<p style="color:blue;background-color:yellow;font-family:sans-serif">Full-stack web development involves building both the front-end (user interface) and back-end (server-side logic and databases) of a web application, requiring expertise in a wide range of technologies. </p>
+<h2>Technologies related to front end</h2>
+<h3>Front end technologies</h3>
+    <img src="https://jaro-website.s3.ap-south-1.amazonaws.com/2024/07/IMG-20220603-WA0011.jpg">
+</body>
+</html>

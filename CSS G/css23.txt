@@ -1,0 +1,109 @@
+The class has limitations it wont adaptive it can be overcome by pseudo class selector.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        .first+li{
+            background-color: yellowgreen;
+        }
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h3>Popular Languages</h3>
+        <ul>
+            <li class="first">C</li>
+            <li>Java</li>
+            <li>Python</li>
+            <li>C++</li>
+            <li>C#</li>
+            <li>JavaScript</li>
+        </ul>
+    </div>
+    <div>
+        
+        <h3>Popular Formates</h3>
+        <ul>
+            <li class="first">Spring</li>
+            <li>Django</li>
+            <li>Node.js</li>
+            <li>.Net</li>
+            <li>Flash</li>
+        </ul>
+        <h3>Highest Paing jobs</h3>
+        <ul>
+            <li class="first">Devops Engineer</li>
+            <li>Full stack Developer</li>
+            <li>Dta scientist</li>
+            <li>AI-ML engineer</li>
+            <li>Cloud engineer</li>
+            <li>Cyber security</li>
+        </ul>
+    </div>
+    
+</body>
+</html>
+
+first second nth child.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        li:first-child{
+            background-color: yellowgreen;
+        }
+        li:last-child{
+            background-color: pink;
+        }
+        li:nth-child(3){
+            background-color: blueviolet;
+        }
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>nth
+<body>
+    <div>
+        <h3>Popular Languages</h3>
+        <ul>
+            <li>Perl</li>
+            <li>C</li>
+            <li>Java</li>
+            <li>Python</li>
+            <li>C++</li>
+            <li>C#</li>
+            <li>JavaScript</li>
+        </ul>
+    </div>
+    <div>
+        
+        <h3>Popular Formates</h3>
+        <ul>
+            <li>Spring</li>
+            <li>Django</li>
+            <li>Node.js</li>
+            <li>.Net</li>
+            <li>Flash</li>
+        </ul>
+        <h3>Highest Paing jobs</h3>
+        <ul>
+            <li>Devops Engineer</li>
+            <li>Full stack Developer</li>
+            <li>Dta scientist</li>
+            <li>AI-ML engineer</li>
+            <li>Cloud engineer</li>
+            <li>Cyber security</li>
+        </ul>
+    </div>
+    
+</body>
+</html>

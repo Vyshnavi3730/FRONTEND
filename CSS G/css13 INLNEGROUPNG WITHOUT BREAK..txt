@@ -1,0 +1,68 @@
+INLNE:GROUPNG WITHOUT BREAK.
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        .web{
+            background-color: yellow;
+            font-family: cursive;
+            color: red;
+        }
+        .ai{
+            background-color: blue;
+            color: white;
+            font-family: monospace;
+
+        }
+        .cs{
+            background-color: green;
+            color: purple;
+            font-family:sans-serif;
+
+        }
+        .firstline{
+            background-color: blueviolet;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div class="web">
+    <h1>Web Development</h1>
+    <p><span class="firstline">Web development involves creating, building, and maintaining websites and web applications, encompassing tasks like coding, design, and database management, using tools like HTML, CSS, and JavaScript.</span>Web development is the process of building, creating, and maintaining websites and web applications. It involves a combination of programming, design, and content management to create user-friendly, functional, and visually appealing online experiences. The process typically includes front-end development (focused on the user interface) and back-end development (handling servers, databases, and application logic). Technologies like HTML, CSS, JavaScript, and frameworks like React and Node.js are commonly used. As the digital landscape evolves, web development continues to innovate with trends like responsive design, progressive web apps, and artificial intelligence integration.</p>
+    <h2>Technologies learn in WEB</h2>
+    <ul>
+     <li>HTML, CSS, JavaScript</li>
+     <li>Frontend Frameworks (React, Angular, Vue)</li>
+     <li>Backend Technologies (Node.js, Django, Flask)</li>
+    </ul>
+  </div>
+  <div class="ai">
+    <h1>Artificial Intelligence</h1>
+    <p>Artificial Intelligence (AI) is a field of computer science focused on enabling machines to perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, and perception.</p>
+    <h2>Technologies learn in ai</h2>
+    <ul>
+        <li>Machine Learning (ML)</li>
+        <li>Deep Learning</li>
+        <li>Natural Language Processing (NLP)</li>
+    </ul>
+  </div>
+  <div class="cs">
+
+    <h1>Cyber Security</h1>
+    <p>Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, damage, or theft, encompassing various technologies, processes, and policies. It aims to safeguard against cyberattacks and maintain the integrity, confidentiality, and availability of information.</p>
+    <h3>technologies learn in cybersecurity</h3>
+    <ul>
+      <li>Network Security (Firewalls, VPNs)</li>
+      <li>Cryptography (SSL/TLS, AES)</li>
+      <li>Authentication & Authorization (MFA, OAuth)</li>
+    </ul>
+  </div>
+</body>
+</html>
