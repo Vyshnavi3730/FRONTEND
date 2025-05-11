@@ -877,16 +877,4 @@
 
 </body>
 </html>
-[7:38 am, 6/5/2025] Vyshnavi😊: <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Idea Incubator Portal</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f3f6fa;
-      margin: 0;
-    }
 
-    .navbar {
